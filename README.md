@@ -4,7 +4,6 @@
 [![Rank](https://make.fun/badge/gta6-clipper-01/Chunk22/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01)
 [![Reward](https://make.fun/badge/gta6-clipper-01/Chunk22/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01)
 
-
 A vertical YouTube Short cut from IShowSpeed's livestream reaction to the
 GTA 6 Trailer 2, entered in make.fun's **gta6-clipper-01** bounty
 ("$500 USDC shared by the top 20 clips by YouTube views").
