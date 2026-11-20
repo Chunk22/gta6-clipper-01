@@ -1,6 +1,9 @@
 # IShowSpeed Thinks He's IN GTA 6 — make.fun gta6-clipper-01 entry
 
 [![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![Rank](https://make.fun/badge/gta6-clipper-01/Chunk22/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01)
+[![Reward](https://make.fun/badge/gta6-clipper-01/Chunk22/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01)
+
 
 A vertical YouTube Short cut from IShowSpeed's livestream reaction to the
 GTA 6 Trailer 2, entered in make.fun's **gta6-clipper-01** bounty
